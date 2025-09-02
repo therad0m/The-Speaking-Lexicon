@@ -1,0 +1,58 @@
+\begin{VocabHighlights}
+    \VH{to pick out}{(phr.v) to choose somebody/something carefully from a group of people or things}{(cụm động từ) chọn lựa, lọc ra}
+    \VH{delectable}{(adj) extremely pleasant to taste, smell or look at}{(tính từ) cực ngon}
+    \VH{affection}{(n) the feeling of liking or loving somebody/something very much and caring about them}{(danh từ) tình cảm}
+    \VH{to tuck into}{(phr.v) to eat vigorously}{(cụm động từ) ăn liên hồi}
+    \VH{to be full up}{(idiom) unable to accommodate any more}{(thành ngữ) không nuốt nổi nữa}
+    \VH{to rustle up}{(phr.v) to prepare (food, a meal, etc.) quickly}{(cụm động từ) nấu nhanh}
+    \VH{the head of the household}{(idiom) the master of the house, usually the father}{(thành ngữ) chủ nhà}
+    \VH{to bring home the bacon}{(idiom) supply material provision or support; earn a living}{(thành ngữ) mang lại thu nhập cho gia đình}
+    \VH{to lend somebody a helping hand}{(idiom) to help somebody}{(thành ngữ) giúp ai đó}
+    \VH{to be overwhelmed with}{(adj) be busy with}{(tính từ) bận rộn làm gì}
+    \VH{to take precedence over}{(phrase) the condition of being more important than somebody else and therefore coming or being dealt with first}{(cụm từ) ưu tiên hơn}
+    \VH{gourmet}{(adj) of high quality and often expensive; connected with food or wine of this type}{(tính từ) thượng hạng, đắt đỏ}
+    \VH{to be a dab hand at}{(idiom) a person who is very good at doing something or using something}{(thành ngữ) 1 người rất khéo làm gì}
+    \VH{home-cooked}{(adj) made and eaten at home}{(tính từ) làm/ăn ở nhà}
+    \VH{to feast on}{(phr.v) to eat large quantities of something, usually with pleasure}{(cụm động từ) ăn nhiều}
+    \VH{slap-up}{(adj) lavish; excellent; first-class}{(tính từ) xuất sắc, hàng đầu, đầy đặn}
+    \VH{to ace the test}{(idiom) to do very well in a test}{(thành ngữ) giành điểm cao kỳ thi}
+    \VH{in the heart of}{(phrase) in the center of}{(cụm từ) trung tâm}
+    \VH{to break the bank}{(idiom) to cost too much}{(thành ngữ) đắt tiền}
+    \VH{pass with flying colors}{(idiom) pass with very high scores}{(thành ngữ) thi đỗ điểm số cao}
+    \VH{to throw a small party}{(idiom) to have a party}{(thành ngữ) tổ chức một bữa tiệc}
+    \VH{to cost the earth}{(idiom) cost too much}{(thành ngữ) tốn kém, đắt đỏ}
+    \VH{to be lost for words}{(idiom) to be so shocked, surprised, full of admiration, etc. that you cannot speak}{(thành ngữ) quá bất ngờ, không nói nên lời}
+    \VH{to look like a million dollars}{(idiom) to look exceptionally attractive or in very robust health}{(thành ngữ) trông cực kì hấp dẫn}
+    \VH{extraordinarily}{(adj) very unusual, special, unexpected, or strange}{(tính từ) phi thường}
+    \VH{lavish}{(adj) spending, giving, or using more than is necessary or reasonable; more than enough}{(tính từ) xa hoa}
+    \VH{eye-catching}{(adj) very attractive or noticeable}{(tính từ) bắt mắt}
+    \VH{on a tight budget}{(phrase) involving a relatively small amount of money for planned spending}{(cụm từ) chi tiêu tiết kiệm; ngân sách có hạn}
+    \VH{preference}{(n) the fact that you like something or someone more than another thing or person}{(danh từ) sở thích}
+    \VH{disparate}{(adj) made up of parts or people that are very different from each other}{(tính từ) khác biệt}
+    \VH{economical}{(adj) providing good service or value in relation to the amount of time or money spent}{(tính từ) tiết kiệm}
+    \VH{to cost a fortune}{(phrase) to cost a lot of money}{(cụm từ) rất tốn tiền}
+    \VH{contemporary}{(adj) belonging to the same time}{(tính từ) đương đại}
+    \VH{to reside}{(v) to live in a particular place}{(động từ) sống, cư trú}
+    \VH{to comply with}{(v) to obey a rule, an order, etc.}{(động từ) tuân theo}
+    \VH{communal}{(adj) shared by, or for the use of, a number of people, especially people who live together}{(tính từ) thuộc về của chung}
+    \VH{to disturb}{(v) to interrupt somebody when they are trying to work, sleep, etc}{(động từ) làm phiền}
+    \VH{a nuclear family}{(phrase) a couple and their dependent children, regarded as a basic social unit}{(cụm từ) gia đình hạt nhân, gia đình nhỏ}
+    \VH{an extended family}{(phrase) a family that extends beyond the nuclear family, including grandparents, aunts, uncles, and other relatives, who all live nearby or in one household}{(cụm từ) gia đình lớn gồm nhiều thành viên}
+    \VH{to cram}{(v) to push or force somebody/something into a small space; to move into a small space with the result that it is full}{(động từ) chen chúc}
+    \VH{humble}{(adj) showing you do not think that you are as important as other people}{(tính từ) nhỏ bé, khiêm tốn}
+    \VH{problematic}{(adj) difficult to deal with or to understand; full of problems; not certain to be successful}{(tính từ) có vấn đề}
+    \VH{exorbitant}{(adj) (of a price) much too high}{(tính từ) giá cao}
+    \VH{laborious}{(adj) taking a lot of time and effort}{(tính từ) siêng năng, chăm chỉ}
+    \VH{social housing}{(phrase) housing which is provided for rent or sale at a fairly low cost by housing associations and local councils}{(cụm từ) nhà ở xã hội}
+    \VH{as easy as pie}{(idiom) very easy}{(thành ngữ) rất dễ dàng}
+    \VH{landlord}{(n) a person or company from whom you rent a room, a house, an office, etc}{(danh từ) chủ nhà; chủ đất}
+    \VH{precarious}{(adj) not safe or certain; dangerous}{(tính từ) bấp bênh; nguy hiểm}
+    \VH{residence}{(n) a house, especially a large or impressive one}{(danh từ) chỗ ở}
+    \VH{shelter}{(n) the fact of having a place to live or stay, considered as a basic human need}{(danh từ) nơi ở, nơi ẩn náu}
+    \VH{to get hitched}{(idiom) to marry}{(thành ngữ) kết hôn}
+    \VH{inclination}{(n) a feeling that makes you want to do something}{(danh từ) khuynh hướng, thiên hướng}
+    \VH{to live off}{(phr.v) to depend on}{(cụm động từ) sống dựa vào, ăn bám}
+    \VH{stereotype}{(n) a set idea that people have about what someone or something is like, especially an idea that is wrong}{(danh từ) khuôn mẫu}
+    \VH{no spring chicken}{(idiom) somebody who is no longer young}{(thành ngữ) ai đó không còn trẻ nữa}
+\end{VocabHighlights}
+

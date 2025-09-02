@@ -1,0 +1,40 @@
+\begin{VocabHighlights}
+        \VH{to be confined to}{(p2) to be kept inside the limits of a particular activity}{(phần từ 2) bị giữ lại, giới hạn}
+        \VH{immobile}{(adj) unable to move}{(tính từ) tĩnh}
+        \VH{dexterous}{(adj) skilful with your hands; skilfully done}{(tính từ) khéo tay}
+        \VH{speciality}{(n) a pursuit, area of study, or skill to which someone has devoted time and effort and in which they are expert}{(danh từ) lĩnh vực chuyên sâu, thế mạnh}
+        \VH{must-see}{(adj) highly recommended as worth seeing}{(tính từ) cần chắc chắn phải xem}
+        \VH{every nook and cranny}{(idiom) every part or aspect of something}{(thành ngữ) mọi ngóc ngách}
+        \VH{to scratch the surface of}{(idiom) to visit a place briefly}{(thành ngữ) lướt qua nơi nào đó, cưỡi ngựa xem hoa}
+        \VH{to slip my mind}{(idiom) forget}{(thành ngữ) quên bẵng mất}
+        \VH{to deal with}{(phr.v) to cope with}{(cụm động từ) đối phó với}
+        \VH{to be promoted to}{(p2) get higher position}{(phần từ 2) thăng chức}
+        \VH{to push the boat out}{(idiom) to spend a lot of money on celebrating something}{(thành ngữ) dành nhiều tiền tổ chức ăn mừng gì}
+        \VH{to pay a visit to}{(phrase) spend a journey time to go somewhere}{(cụm từ) dành một chuyến đi đến}
+        \VH{to be overwhelmed with}{(p2) feeling too many emotions right now}{(phần từ 2) choáng ngợp trong cảm xúc}
+        \VH{to show around}{(phr.v) to take someone to all parts, or the main parts, of a place that they have not visited before, so that they can see what it is like or learn about it}{(cụm động từ) dẫn tham quan xung quanh}
+        \VH{to be dynamic}{(adj) positive in attitude and full of energy and new idea}{(tính từ) năng động}
+        \VH{fresh from (=fresh out of)}{(idiom) having just finished education or training, not having a lot of experience}{(thành ngữ) vừa mới học xong, chưa dạn dĩ chân ráo}
+        \VH{congenial}{(adj) pleasant to spend time with because their interests and character are similar to your own}{(tính từ) thoải mái}
+        \VH{job satisfaction}{(n) a measure of workers’ contentedness with their job}{(danh từ) sự hài lòng trong công việc}
+        \VH{an armchair critic}{(n) a person who knows or pretends to know a lot about something in theory rather than practice}{(danh từ) người nói lý thuyết suông}
+        \VH{a big mouth}{(n) an indiscreet or boastful person}{(danh từ) người không đáng tin}
+        \VH{hamper}{(v) to prevent somebody from easily doing or achieving something}{(động từ) cản trở}
+        \VH{nourish}{(v) to keep a person, an animal or a plant alive and healthy with food, etc}{(động từ) nuôi dưỡng}
+        \VH{laid-back}{(adj) relaxed in manner and character}{(tính từ) thong thả}
+        \VH{stuffy}{(adj) warm in an unpleasant way and without enough fresh air}{(tính từ) ngột ngạt}
+        \VH{compact}{(adj) smaller than is usual for things of the same kind}{(tính từ) nhỏ gọn}
+        \VH{down-to-earth}{(adj) practical, reasonable and friendly}{(tính từ) thân thiện, hòa đồng}
+        \VH{conservative}{(adj) opposed to great or sudden social change; showing that you prefer traditional styles and values}{(tính từ) bảo thủ}
+        \VH{surrogate}{(n) something that replaces or is used instead of something else}{(danh từ) sự thay thế}
+        \VH{a couch potato}{(n) a person who spends little or no time exercising \& a great deal of time watching TV}{(danh từ) người lười biếng}
+        \VH{implausible}{(adj) not seeming reasonable or likely to be true}{(tính từ) vô lý, khó tin}
+        \VH{to make headway in/with}{(idiom) to move forward or make progress}{(thành ngữ) tiến bộ, tiến bước lên}
+        \VH{theoretically}{(adv) in a way that is concerned with the ideas and principles on which a particular subject is based, rather than with practice and experiment}{(trạng từ) về mặt lý thuyết}
+        \VH{ultimately}{(adv) in the end; finally}{(trạng từ) cuối cùng}
+        \VH{tough going}{(adj) progress that is difficult}{(tính từ) gian truân}
+        \VH{exclusively}{(adv) for only one particular person, group or use}{(trạng từ) duy nhất}
+        \VH{remuneration}{(n) payment for work or services}{(danh từ) mức lương, đãi ngộ}
+        \VH{holiday entitlements}{(phrase) the number of days of paid holiday a year that a worker is entitled to take}{(cụm từ) chế độ ngày nghỉ được hưởng}
+        \VH{within moments}{(idiom) within a very short amount of time}{(thành ngữ) rất nhanh chóng}
+    \end{VocabHighlights}
