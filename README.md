@@ -31,6 +31,7 @@ Dự án này nhằm số hóa và biên soạn cuốn sách **"Từ vựng chuy
 - .gitignore: Bỏ qua các file phụ khi compile (.aux, .log, .toc…).
 
 ## 🛠️ Cách biên dịch
+
 Yêu cầu: **TeX Live** hoặc **MikTeX** + `latexmk`.  
 
 Chạy lệnh:
